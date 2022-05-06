@@ -42,7 +42,6 @@
     "phan": "Roda um analizador statico para prevenção de escrita no código. PHAN",
     "check": "Roda as verificações do código. PHAN, PHPCS e PHPUNIT"
   },
-  "license": "Open Source",
   "bin": [
     "buscar-cursos.php"
   ]
